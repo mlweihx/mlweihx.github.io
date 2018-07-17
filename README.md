@@ -1,4 +1,5 @@
-## Welcome to Hongxu Wei(魏洪旭)'s homepage
+## 魏洪旭简历
+## This is Hongxu Wei's CV
 
 You can use the [editor on GitHub](https://github.com/mlweihx/mlweihx.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
